@@ -19,6 +19,8 @@ namespace Harjoitus1
             int b = 2;
             Console.WriteLine(a+b);
 
+            //testi
+
             //Tehtävä 2
             Console.WriteLine();
 
